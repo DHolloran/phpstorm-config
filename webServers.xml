@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8a733f8f-1c4d-4558-a17f-8d1bf7e8992b" name="firmexchange.dev" url="http://firmexchange.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
